@@ -16,11 +16,19 @@ The findings provide a data-driven foundation for selecting aircraft that align 
 Next steps include validating these insights with industry experts, incorporating financial and operational cost data, and exploring real-time aircraft performance metrics for continuous risk monitoring.
 ## Repo Structure
 /Data/AviationData.csv
+
 /Images/aircratf.jpg
+
 /Notebooks/*.ipynb
+
 /PDFs/notebook.pdf
+
 /PDFs/non_tech_visual.pdf
+
 /.gitignore
+
 /LICENSE
+
 /Main.ipnyb
+
 /README.md
