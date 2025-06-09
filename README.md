@@ -29,6 +29,6 @@ Next steps include validating these insights with industry experts, incorporatin
 
 /LICENSE
 
-/Main.ipnyb
+/Main.ipynb
 
 /README.md
