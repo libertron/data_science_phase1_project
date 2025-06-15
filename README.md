@@ -15,20 +15,22 @@ Based on the analysis, we developed three actionable business recommendations ai
 The findings provide a data-driven foundation for selecting aircraft that align with your company’s safety standards and business objectives. By focusing on models with a strong track record, avoiding high-risk categories, and aligning aircraft types with use cases, your company can make informed decisions as it enters the aviation sector.
 Next steps include validating these insights with industry experts, incorporating financial and operational cost data, and exploring real-time aircraft performance metrics for continuous risk monitoring.
 ## Repo Structure
-/Data/AviationData.csv
+Data/AviationData.csv
 
-/Images/aircratf.jpg
+Data/AviationDataCleaned.csv
 
-/Notebooks/*.ipynb
+Images/aircratf.jpg
 
-/PDFs/notebook.pdf
+Partials/*.py  [some modules]
 
-/PDFs/non_tech_visual.pdf
+PDFs/Notebook.pdf
 
-/.gitignore
+PDFs/Presentation.pdf
 
-/LICENSE
+.gitignore
 
-/Main.ipynb
+LICENSE
 
-/README.md
+Main.ipynb
+
+README.md
