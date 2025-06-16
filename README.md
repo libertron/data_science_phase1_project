@@ -23,6 +23,8 @@ Images/aircratf.jpg
 
 Partials/*.py  [some modules]
 
+PDFs/Dashboard.pdf
+
 PDFs/Notebook.pdf
 
 PDFs/Presentation.pdf
